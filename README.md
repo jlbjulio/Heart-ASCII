@@ -30,7 +30,7 @@ Link to view the project: [Heart ASCII](https://jlbjulio.github.io/Heart-ASCII)
 
 ## Author
 
-This project was developed by **Julio Lara** as part of a creative exercise in web design.
+This project was developed by **Julio Lara**.
 
 ---
 
