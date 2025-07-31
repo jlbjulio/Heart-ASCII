@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(0, 0, 0);
+  color: red;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+pre {
+  font-family: monospace;
+  font-size: 16px; /* Reducir el tamaño del texto */
+  line-height: 20px; /* Ajustar la separación entre letras */
+  text-align: center;
+  white-space: pre;
+  color: red;
+}
