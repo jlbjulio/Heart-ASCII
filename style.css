@@ -16,17 +16,17 @@ pre {
   text-align: center;
   white-space: pre-wrap; /* Permitir ajuste de texto */
   color: red;
-  transform: scale(0.5); /* Escalar el contenido inicialmente */
+  transform: scale(0.4); /* Reducir aún más la escala inicial */
 }
 
 @media (min-width: 768px) {
   pre {
-    transform: scale(0.75); /* Ajustar escala para pantallas más grandes */
+    transform: scale(0.6); /* Ajustar escala para pantallas más grandes */
   }
 }
 
 @media (min-width: 1200px) {
   pre {
-    transform: scale(1); /* Escala normal para pantallas muy grandes */
+    transform: scale(0.8); /* Escala más pequeña para pantallas muy grandes */
   }
 }
