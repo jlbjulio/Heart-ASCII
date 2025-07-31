@@ -11,9 +11,11 @@ body {
 
 pre {
   font-family: monospace;
-  font-size: 16px;
+  font-size: 2.5vw; /* antes: 16px */
   line-height: 1.2;
   text-align: center;
   white-space: pre-wrap;
   color: red;
+  max-width: 100vw;
+  word-wrap: break-word;
 }
