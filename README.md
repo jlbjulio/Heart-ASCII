@@ -34,4 +34,4 @@ This project was developed by **Julio Lara**.
 
 ---
 
-> **Note**: This project is written in Spanish and is designed to be simple and easy to understand.
+> **Note**: This project was originally developed in Spanish. The README is written in English for documentation and sharing purposes.
