@@ -1,6 +1,6 @@
 # ASCII Heart Code Style
 
-This project is a web page that displays an animated ASCII art heart, accompanied by a personalized message and a dinosaur also in ASCII art. The animation and design are made with HTML, CSS, and JavaScript.
+This project is a web page only for desktop that displays an animated ASCII art heart, accompanied by a personalized message and a dinosaur also in ASCII art. The animation and design are made with HTML, CSS, and JavaScript.
 
 ## Technologies Used
 
